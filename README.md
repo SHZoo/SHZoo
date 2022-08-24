@@ -1,13 +1,13 @@
 
 ### 🎓 Education
-* 부산대학교 산업공학과
+* **부산대학교 산업공학과**
     * **2017.03~**
 
 ### Interest
-* Supply Chain Management
-* Logistics
-* Production and Operation Management
-* Machine Learning
+* **Supply Chain Management**
+* **Logistics**
+* **Production and Operation Management**
+* **Machine Learning**
 
 <!--
 **SHZoo/SHZoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
